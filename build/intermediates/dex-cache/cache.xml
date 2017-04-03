@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_bc1bdfd50c8863830079def81fb2571b2ce33842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_319f8b7a91a1496f6fe39c435df7d0a6af12e821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_25a4b40c9fee555b558836291bcbae364e2e5769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_eeef8369ffaa810714d3e89b1fc96a381ac3e6e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_437e418c3a855e6b0c80e1c39985417156374d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_1743e26a4dc67071d85912a70faa4e15f3ecf139/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-2.0.2_cd0c62952a70622a2f9fcf33d45bc9f1dcba6451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_033cb17a15e37900a70d7e22ece39e6d88129a60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_110801a35f3b2262877d379a78e4030c013802e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_f63a546cf97ad0320db072007ea25af7f8da6f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_8d37cedc2ee65e0b8d899258aada12e787b6b27c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/libs/httpcore-4.3-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a293723fe90abe781acb4efaacaecdf2108f346d">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3-beta1_b8b258d1eaacae6920cba261d1799c41861eee43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_27fd961f53dd222c6bcea767789185c386cf32bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_f16c37e97d71cae71411f2c5e66d1c7b44f37b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0bace0b97ed4d833afbeb2e35686bfd3a2128cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_d15f161df6105fe3297e51864c8ff3fa280b5922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_0b451c4abbac2a2ff80e0f3ab8120660bbbbf891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_64babb990d876b0156ae0c329dcad2871afd1934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_3c28b8801c581a5b3ca9920815e8bac416b8a8a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_56a4e039bc79ac0f3aa04f797c0d645204920b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="978dcfc1062d4b9a69e0422d996983160418144b">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1d4785f378ea07371e6f5877f8c0b00c3393e0ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_34aca253010d98d5f02d9b890a217fb8463cb25a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/libs/httpmime-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3_ac96a722f754136b98534a0d08cf4684c01ee763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_8391727d7406eeb69a33c2edbc3c92f09029a11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b8cd599493277a201f56e8bdea37d054374b9d09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_213a39933adb61ef2bcfcb0ae82d510ecf8722be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_3428b1762bafd023635531c355a946b4494bf9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfb89b8ef83a8ca937bf58a58ea9f09c6be9977e">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1719304479a6b1efde7107e62347c63841280bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_69c4351affdc460c46b1e20ca79946df33b3c4e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_9beca7b2ad3815c1c76873a91b2c1ec492e95726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_6798717ad807b61df02e2dabc5a59cc170601579/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_689c81d95ab2693dacb5defceb9e5e5763f79ccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_3d0ca0219300fb21f70bedf9e6cede39ff899751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.roughike/bottom-bar/2.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roughike-bottom-bar-2.0.2_8dcc461d114571dbde5bc20cc42423bf9c4dfa7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_f240db215cbca7d89a48ba573dfdfe2798bd9222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_cd74ad827eea8e4ff8610d1e2b6e10be67d9b03f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ccad9d5c10880f5d5310b57cff02eb3a21cd86e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ff596fa96e98af58811e44eaa3b3520a09a10b7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_e5a154a944845d63620a8fdb032a58552a0ab3e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_d04ce68fe6b80a67b43982b32031edff8af37740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c2fffde293e00a8e633ff638990990aa4bf3a3">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_468121bfc36b28b7148fd50d533cae056dae7320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_8614f579cde7e60d95c3d471707d3974a5143c81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_8b02fb4a2f07c22d13c8b74e257d1855de273e02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_c755536f109499b1197e6b516edf2fe59c373fb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_06bd2a956a955f19d14bacd7b9e7493f473542b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_126e3229627d22f87b697e8d65fd7414bd15c74f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_e2d7ebb4dd6ef0c45cbb7f2a40428f6757df74da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_73c87553ee13cd6ac703189dce46bbd80522a407/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_5628053a574cb77f807924dddaffaa67b9c06247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_bd38647f8588a68a6142ea065103ca5ff51bdadf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_3c7fd21817d2d12dce7293f6179778a0b482e86f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_386e86790c8dd214729f1906eb61a049645a4009/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_92d51db2064e8f4879f1190375a1f1849238fabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/libs/httpmime-4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3_7ad55ae55423b19baa3caa574b03a6cc0cb62360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1f4dbb836f2388597435aca3c4f7ab0460280335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_48e0a3bfdb00bf1cc2254a04f9bc20a20e720c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/libs/httpcore-4.3-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a293723fe90abe781acb4efaacaecdf2108f346d">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3-beta1_03517ca99349a37b81e8c387ba027cab4d10d69b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_e44ce074ae3bf3feb343c229d8f850f0bb3ae2c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6d7e800a713b2f434d9f9b1da86dc00cf853fba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_4ed95f10b3eb7ddf3a8f630f9d686751eaed4bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_1e6f90a96ef9e0e6bb77180f9c3cbbf693ed2d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_d3cbcc154eaea0cf7b79df88a94c5f1dd84ab4b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9d692d8592692b37e76da392914893d1fd480e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_6b217c290e2af3e2115d2e41b74e88cb5b5d7e33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_e8a791ef753eb936e01de226ef170bc1684a3d65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_b5e8e0b53e65b36885e134a196e6219e9bc907a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_40f24936dd2278a595e02ab331b1c82032371a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_7d8a1ce02fb3e6810943e33456b641d71733c434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_a076ad110a7a263cbc18a6bdf3e3db88c1233f6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_c5555530c5d55dd8f440e93388bda48081983c20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_2d234917f8537b71a3f80da62b37c98008963f7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5e10f1fa4ce751f156ef745d4b71b6531461c4d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="52d0026ae82bbba577580423b67757f44214b68e">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c918de8d255b1e611383dd6b56afdf1207703f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_80b245bbf48fcb815b718d3dea064dde29ea6b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_1f6caa3ca3f523b8d84c7a5d129a92de24e6d7cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_fa3ff2fd2ce2e59052eaae3897db726353b7ff88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_d73eb31450215c239292ca0ff740816d96ad24c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/home/rayleigh/Android/workspace/android-auto-detect-face/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_236247e82d23e7e56e39a7edd70fa000eec6560e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/rayleigh/Android/workspace/termskip/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_0f86650b9a399e90da49403fb4033b9c8eb2a532/classes.dex" />
+    </item>
+
+</items>

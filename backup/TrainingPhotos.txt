@@ -1,0 +1,30 @@
+[DETECT]
+https://apicn.faceplusplus.com/v2/detection/detect?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&url=http://conma.net/photos/trinh/01.jpg
+
+[CREATE_PERSON]
+https://api.faceplusplus.com/person/create?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&person_name=Trinh Nguyen
+
+Trinh
+    "person_id": "e0f52547b0a62abd05a2b44717f55554", 
+    "person_name": "Trinh Nguyen", 
+            "face_id": "f9b3947c7c1327c227fb55632b997cd1",
+            "face_id": "c050d67d4de47c0baa154375b3c443cf", 
+            "face_id": "024559f7678dca84253c2370870541c4", 
+            "face_id": "38ddbeb9b8a77fd5e72e88e5cd3a3ae5", 					
+			
+Dung
+    "person_id": "f73c92ea3bdbba57082edf945de98115", 
+    "person_name": "Dung Le", 
+            "face_id": "a52f1f705f2094d101c8f18a3523945c", 
+            "face_id": "e6384782dbefacd53bb6e2beba6f90c7", 
+            "face_id": "5dd986709ceae2803114038d96b64fe6", 
+            "face_id": "aafc3dde823bf57fdd8bdd47910d2252", 
+			
+Till
+    "person_id": "7a101c60d74e405640a0a297e2dc6c54", 
+    "person_name": "Till Gartner", 
+            "face_id": "2367148abf511fffe055c9ea4d2249a8", 
+            "face_id": "c585c3e5ba84fb69853447b14361901e", 
+            "face_id": "4f508ae24e375d130b2d8274b087b716", 
+            "face_id": "0e3e0e376ff9d1aa8173f03d2a435741", 
+			

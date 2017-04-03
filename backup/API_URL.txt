@@ -1,0 +1,45 @@
+e85d45de7c38a3eda213db3d7ad58f62,
+8f696e7380c1baae970f8a65ed5e38bf,
+b102796119c032984d4fb67bfb7d148
+
+
+
+
+https://api.faceplusplus.com/person/get_info?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&person_id=b383cf4dc53c19fe6cc32998e5b2fb2c
+
+
+https://api.faceplusplus.com/train/search?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&faceset_id=4474f9071889a24ea801a5774859f9b5
+
+
+{
+    "face": [
+        {
+            "face_id": "3048d78f088fec3467619c95f993accb", 
+            "tag": ""
+        }, 
+        {
+            "face_id": "b41d888606b1f9a56c3bb51ec2492b2e", 
+            "tag": ""
+        }, 
+        {
+            "face_id": "5bb4d8e72c071755055765213b0c0dec", 
+            "tag": ""
+        }, 
+        {
+            "face_id": "be4cfa941e0ba4af96cb67cd856117ac", 
+            "tag": ""
+        }
+    ], 
+    "group": [], 
+    "person_id": "b383cf4dc53c19fe6cc32998e5b2fb2c", 
+    "person_name": "Obama", 
+    "tag": ""
+}
+
+
+https://api.faceplusplus.com/recognition/search?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&key_face_id=ac39d3f2c52593367a310194f6199360&faceset_id=4474f9071889a24ea801a5774859f9b5
+
+https://api.faceplusplus.com/detection/detect?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&url=http://conma.net/photos/trinh/0.jpg
+
+
+https://api.faceplusplus.com/recognition/search?api_secret=TsIEik-Lv81U8tUU_ij2AYXpuUX8jD5z&api_key=c40fafef7a35cd8cf73448fbda4990fa&key_face_id=ac39d3f2c52593367a310194f6199360&faceset_id=4474f9071889a24ea801a5774859f9b5
